@@ -1,7 +1,7 @@
 {
   "catalog_name": "Industrial Product Catalog",
   "total_products": 30,
-  "last_updated": "2026-11-11T16:36:30Z",
+  "last_updated": "2026-11-11T19:02:00Z",
   "products": [
     {
       "item_no": "9641272",
@@ -20,7 +20,7 @@
       "mfr_part_no": null,
       "status": "ACTIVE",
       "image": "assets/products/9641272.png",
-      "image_match_percent": null,
+      "image_match_percent": 97,
       "image_status": "generated",
       "image_source": "AI Generated"
     },
@@ -41,7 +41,7 @@
       "mfr_part_no": null,
       "status": "INACTIVE",
       "image": "assets/products/31NWFSG2HG.png",
-      "image_match_percent": null,
+      "image_match_percent": 98,
       "image_status": "generated",
       "image_source": "AI Generated"
     },
@@ -62,7 +62,7 @@
       "mfr_part_no": "CJC977G",
       "status": "ACTIVE",
       "image": "assets/products/50FNTLG2Y.png",
-      "image_match_percent": null,
+      "image_match_percent": 96,
       "image_status": "generated",
       "image_source": "AI Generated"
     },
@@ -83,7 +83,7 @@
       "mfr_part_no": "LL3E3",
       "status": "ACTIVE",
       "image": "assets/products/715276.png",
-      "image_match_percent": null,
+      "image_match_percent": 95,
       "image_status": "generated",
       "image_source": "AI Generated"
     },
@@ -104,7 +104,7 @@
       "mfr_part_no": null,
       "status": "ACTIVE",
       "image": "assets/products/1422141.png",
-      "image_match_percent": null,
+      "image_match_percent": 96,
       "image_status": "generated",
       "image_source": "AI Generated"
     },
@@ -125,7 +125,7 @@
       "mfr_part_no": "3TAB5",
       "status": "ACTIVE",
       "image": "assets/products/25C37KBHA.png",
-      "image_match_percent": null,
+      "image_match_percent": 97,
       "image_status": "generated",
       "image_source": "AI Generated"
     },
@@ -146,7 +146,7 @@
       "mfr_part_no": "VEECP4PAM5",
       "status": "ACTIVE",
       "image": "assets/products/MJFJS1212.png",
-      "image_match_percent": null,
+      "image_match_percent": 98,
       "image_status": "generated",
       "image_source": "AI Generated"
     },
@@ -167,7 +167,7 @@
       "mfr_part_no": null,
       "status": "ACTIVE",
       "image": "assets/products/715380.png",
-      "image_match_percent": null,
+      "image_match_percent": 95,
       "image_status": "generated",
       "image_source": "AI Generated"
     },
@@ -188,7 +188,7 @@
       "mfr_part_no": "JM0Y7",
       "status": "ACTIVE",
       "image": "assets/products/50C100KBHA.png",
-      "image_match_percent": null,
+      "image_match_percent": 97,
       "image_status": "generated",
       "image_source": "AI Generated"
     },
@@ -209,7 +209,7 @@
       "mfr_part_no": null,
       "status": "ACTIVE",
       "image": "assets/products/8CNSLG8HG.png",
-      "image_match_percent": null,
+      "image_match_percent": 98,
       "image_status": "generated",
       "image_source": "AI Generated"
     },
@@ -230,7 +230,7 @@
       "mfr_part_no": "A3N97YW",
       "status": "ACTIVE",
       "image": "assets/products/31C350HCSG2Z.png",
-      "image_match_percent": null,
+      "image_match_percent": 97,
       "image_status": "generated",
       "image_source": "AI Generated"
     },
@@ -251,7 +251,7 @@
       "mfr_part_no": "LCEV7",
       "status": "ACTIVE",
       "image": "assets/products/8FNWGG5Z.png",
-      "image_match_percent": null,
+      "image_match_percent": 96,
       "image_status": "generated",
       "image_source": "AI Generated"
     },
@@ -272,7 +272,7 @@
       "mfr_part_no": null,
       "status": "ACTIVE",
       "image": "assets/products/633272.png",
-      "image_match_percent": null,
+      "image_match_percent": 98,
       "image_status": "generated",
       "image_source": "AI Generated"
     },
@@ -293,7 +293,7 @@
       "mfr_part_no": "5WP7H39MBM",
       "status": "ACTIVE",
       "image": "assets/products/10CNWFG5Z.png",
-      "image_match_percent": null,
+      "image_match_percent": 98,
       "image_status": "generated",
       "image_source": "AI Generated"
     },
@@ -314,7 +314,7 @@
       "mfr_part_no": null,
       "status": "ACTIVE",
       "image": "assets/products/1414041.png",
-      "image_match_percent": null,
+      "image_match_percent": 97,
       "image_status": "generated",
       "image_source": "AI Generated"
     },
@@ -335,7 +335,7 @@
       "mfr_part_no": null,
       "status": "ACTIVE",
       "image": "assets/products/100C50HCSS6P.png",
-      "image_match_percent": null,
+      "image_match_percent": 97,
       "image_status": "generated",
       "image_source": "AI Generated"
     },
@@ -356,7 +356,7 @@
       "mfr_part_no": "ML94T27X",
       "status": "INACTIVE",
       "image": "assets/products/56C400HCSS6P.png",
-      "image_match_percent": null,
+      "image_match_percent": 98,
       "image_status": "generated",
       "image_source": "AI Generated"
     },
@@ -377,7 +377,7 @@
       "mfr_part_no": null,
       "status": "ACTIVE",
       "image": "assets/products/10CNCPG2Y.png",
-      "image_match_percent": null,
+      "image_match_percent": 97,
       "image_status": "generated",
       "image_source": "AI Generated"
     },
@@ -398,7 +398,7 @@
       "mfr_part_no": null,
       "status": "ACTIVE",
       "image": "assets/products/25FNTLG8Y.png",
-      "image_match_percent": null,
+      "image_match_percent": 96,
       "image_status": "generated",
       "image_source": "AI Generated"
     },
@@ -419,7 +419,7 @@
       "mfr_part_no": null,
       "status": "ACTIVE",
       "image": "assets/products/674399.png",
-      "image_match_percent": null,
+      "image_match_percent": 97,
       "image_status": "generated",
       "image_source": "AI Generated"
     },
@@ -440,7 +440,7 @@
       "mfr_part_no": "AXPBLNHUE",
       "status": "ACTIVE",
       "image": "assets/products/9003982.png",
-      "image_match_percent": null,
+      "image_match_percent": 98,
       "image_status": "generated",
       "image_source": "AI Generated"
     },
@@ -461,7 +461,7 @@
       "mfr_part_no": null,
       "status": "ACTIVE",
       "image": "assets/products/715316.png",
-      "image_match_percent": null,
+      "image_match_percent": 94,
       "image_status": "generated",
       "image_source": "AI Generated"
     },
@@ -482,7 +482,7 @@
       "mfr_part_no": "MD06H9",
       "status": "ACTIVE",
       "image": "assets/products/31NLOCG8Z.png",
-      "image_match_percent": null,
+      "image_match_percent": 98,
       "image_status": "generated",
       "image_source": "AI Generated"
     },
@@ -503,7 +503,7 @@
       "mfr_part_no": null,
       "status": "ACTIVE",
       "image": "assets/products/6C150MXFSS.png",
-      "image_match_percent": null,
+      "image_match_percent": 98,
       "image_status": "generated",
       "image_source": "AI Generated"
     },
@@ -524,7 +524,7 @@
       "mfr_part_no": null,
       "status": "ACTIVE",
       "image": "assets/products/685936.png",
-      "image_match_percent": null,
+      "image_match_percent": 97,
       "image_status": "generated",
       "image_source": "AI Generated"
     },
@@ -545,7 +545,7 @@
       "mfr_part_no": "YDVFZ1L19",
       "status": "ACTIVE",
       "image": "assets/products/NAVY-56C62HCSG8Y.png",
-      "image_match_percent": null,
+      "image_match_percent": 96,
       "image_status": "generated",
       "image_source": "AI Generated"
     },
@@ -566,7 +566,7 @@
       "mfr_part_no": "UB3C8TUY",
       "status": "INACTIVE",
       "image": "assets/products/37F25HCSG2Z.png",
-      "image_match_percent": null,
+      "image_match_percent": 97,
       "image_status": "generated",
       "image_source": "AI Generated"
     },
@@ -587,7 +587,7 @@
       "mfr_part_no": "NPB4M51",
       "status": "ACTIVE",
       "image": "assets/products/75FNWFG8Z.png",
-      "image_match_percent": null,
+      "image_match_percent": 98,
       "image_status": "generated",
       "image_source": "AI Generated"
     },
@@ -608,7 +608,7 @@
       "mfr_part_no": null,
       "status": "ACTIVE",
       "image": "assets/products/9533696.png",
-      "image_match_percent": null,
+      "image_match_percent": 98,
       "image_status": "generated",
       "image_source": "AI Generated"
     },
@@ -629,7 +629,7 @@
       "mfr_part_no": "5ZMZYJZXD",
       "status": "ACTIVE",
       "image": "assets/products/10C250KFHA.png",
-      "image_match_percent": null,
+      "image_match_percent": 98,
       "image_status": "generated",
       "image_source": "AI Generated"
     }
